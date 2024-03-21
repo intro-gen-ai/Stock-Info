@@ -1,4 +1,4 @@
-# Project Name Here
+# TradeGenius: AI-Powered Stock Research Assistant
 Short description of project. Replace this and the project section below with a 1-3 sentence description of your project. 
 
 Project Notes:
@@ -15,7 +15,7 @@ Project Notes:
 ## Project PI/Project Team 
 **Due March 21, 11:59pm**
 
-Name, Vandy email, VUNetID, Role
+Vikas Bharti, vikas.bharti@vanderbilt.edu, Bhartv1, Sole Lead
 
 ## Project Proposal 
 **Due March 21, 11:59pm**
