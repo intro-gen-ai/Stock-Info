@@ -23,25 +23,64 @@ Name, Vandy email, VUNetID, Role
 300-1000 words total across all of the sections below
 
 ### Description of Problem/Opportunity
+Description of Problem/Opportunity
+
+In the realm of stock trading, having access to comprehensive and accurate research is vital for both personal and professional traders. However, conducting thorough market research is time-consuming and requires expertise in analyzing various sources of information, including Wall Street analyst reports, market sentiments, and trading rules. Many traders, especially those with limited time or expertise, struggle to keep up with the vast amount of data available and may make suboptimal decisions as a result. There is a significant opportunity to leverage artificial intelligence to streamline the research process and provide traders with actionable insights to inform their trading decisions.
 
 ### Proposed Solution/Approach
+Our proposed solution is to develop a sophisticated AI-powered stock research assistant that will conduct in-depth market analysis on behalf of traders. This AI assistant will utilize web search capabilities to gather information from credible sources, including Wall Street analyst reports, financial news outlets, and reputable market analysis platforms. Using natural language processing (NLP) algorithms, the system will parse through the gathered data to extract relevant insights and sentiment analysis to gauge market sentiment.
+
+The AI assistant will incorporate a variety of metrics, including data provided by credible Wall Street and analyst companies, sentimental analyses, and established trading rules, to generate a comprehensive research report. It will analyze the positive, negative, and neutral sentiments from various sources to provide a balanced view of market opinions. Additionally, the assistant will present multiple scenarios to help traders understand potential outcomes and make informed decisions.
+
+Furthermore, the AI assistant will employ machine learning algorithms to continuously improve its accuracy and effectiveness over time. By analyzing past market trends and the outcomes of previous trading decisions, the system will learn to identify patterns and make more accurate predictions. It will also adapt to changes in market conditions and incorporate new information to ensure that traders have access to the most up-to-date insights.
 
 ### Project Outline and Timeline
-What are the steps to complete the project? State your milestones and the dates you want to complete them. 
 
-## Goals of project 
-**Due March 21, 11:59pm**
+**Milestones:**
 
-Describe 1-5 goals of the project. 
-### Goal 1
-### Goal 2
+- **3/28:** Complete project outline and identify the necessary databases for the AI assistant. Begin development of initial components of the Assistant.
+  
+- **4/4:** Acquire all required data and integrate it into the AI Assistant. Implement prompts for specific aspects of the scouting report generation.
+  
+- **4/11:** Enable the assistant to autonomously generate a full scouting report based on the fed-in data. Test and debug as necessary.
+  
+- **4/18:** Refine the assistant's capabilities, addressing any potential errors or inaccuracies. Enhance the assistant's ability to incorporate new data for future reports.
+  
+- **4/22:** Finalize development and testing of the AI assistant. Ensure it is ready for use by personal and professional traders.
 
-## Project Metrics 
-**Due March 21, 11:59pm**
+### Goals of the Project
 
-Compose 2-5 metrics to determine the success of the project. These should be measureable, and should translate to a letter grade for each. 
-### Metric 1
-### Metric 2
+**Goal 1:** Create a comprehensive scouting report of a football team that provides valuable insights for teams.
+
+**Goal 2:** Develop a scouting report that goes beyond surface-level statistics, offering deep analysis and recommendations to help teams gain a strategic advantage.
+
+**Goal 3:** Generate a visually appealing and easy-to-read scouting report, presenting key information clearly and concisely.
+
+**Goal 4:** Provide actionable recommendations for game planning based on the insights provided in the scouting report.
+
+
+
+### Project Metrics
+
+**Metric 1: Accuracy of Insights**
+- **Description:** Measure the accuracy of the insights provided by the AI assistant compared to actual market trends and outcomes.
+- **Measurement:** Calculate the percentage of correct predictions made by the AI assistant.
+- **Letter Grade:** 
+  - A: 90% or higher accuracy
+  - B: 80% - 89% accuracy
+  - C: 70% - 79% accuracy
+  - D: 60% - 69% accuracy
+  - F: Below 60% accuracy
+
+**Metric 2: User Satisfaction**
+- **Description:** Evaluate user satisfaction with the AI assistant's usability and effectiveness.
+- **Measurement:** Conduct user surveys or interviews to gather feedback on the assistant's performance, ease of use, and usefulness in informing trading decisions.
+- **Letter Grade:**
+  - A: High satisfaction with positive feedback from users
+  - B: Generally positive feedback with some areas for improvement identified
+  - C: Mixed feedback with equal positive and negative comments
+  - D: Mostly negative feedback with few positive comments
+  - F: Overwhelmingly negative feedback with little to no positive comments
 
 ## Self-Evaluation
 **Due April 26, 11:59pm**
