@@ -50,15 +50,15 @@ Furthermore, the AI assistant will employ machine learning algorithms to continu
 
 ### Goals of the Project
 
-Goal 1: Develop a sophisticated AI-powered stock research assistant capable of conducting in-depth market analysis on behalf of traders.
+Goal 1: Design a customized generative AI-powered stock research assistant capable of conducting in-depth market analysis on behalf of traders.
 
-Goal 2: Utilize natural language processing (NLP) algorithms to parse through data gathered from credible sources, including Wall Street analyst reports, financial news outlets, and reputable market analysis platforms.
+Goal 2: Utilize data gathered from credible sources, including Wall Street analyst reports, financial news outlets, and reputable market analysis platforms.
 
 Goal 3: Incorporate sentiment analysis to gauge market sentiment and present a balanced view of market opinions, including positive, negative, and neutral sentiments.
 
 Goal 4: Generate comprehensive research reports incorporating metrics from credible sources and established trading rules to provide traders with actionable insights and multiple scenarios for informed decision-making.
 
-Goal 5: Employ machine learning algorithms to continuously improve the accuracy and effectiveness of the AI assistant over time, adapting to changes in market conditions and incorporating new information for up-to-date insights.
+Goal 5: Include possible uncertainity and error it might commit. If it is unclear it should point out that. 
 
 
 
