@@ -50,13 +50,15 @@ Furthermore, the AI assistant will employ machine learning algorithms to continu
 
 ### Goals of the Project
 
-**Goal 1:** Create a comprehensive scouting report of a football team that provides valuable insights for teams.
+Goal 1: Develop a sophisticated AI-powered stock research assistant capable of conducting in-depth market analysis on behalf of traders.
 
-**Goal 2:** Develop a scouting report that goes beyond surface-level statistics, offering deep analysis and recommendations to help teams gain a strategic advantage.
+Goal 2: Utilize natural language processing (NLP) algorithms to parse through data gathered from credible sources, including Wall Street analyst reports, financial news outlets, and reputable market analysis platforms.
 
-**Goal 3:** Generate a visually appealing and easy-to-read scouting report, presenting key information clearly and concisely.
+Goal 3: Incorporate sentiment analysis to gauge market sentiment and present a balanced view of market opinions, including positive, negative, and neutral sentiments.
 
-**Goal 4:** Provide actionable recommendations for game planning based on the insights provided in the scouting report.
+Goal 4: Generate comprehensive research reports incorporating metrics from credible sources and established trading rules to provide traders with actionable insights and multiple scenarios for informed decision-making.
+
+Goal 5: Employ machine learning algorithms to continuously improve the accuracy and effectiveness of the AI assistant over time, adapting to changes in market conditions and incorporating new information for up-to-date insights.
 
 
 
@@ -65,12 +67,12 @@ Furthermore, the AI assistant will employ machine learning algorithms to continu
 **Metric 1: Accuracy of Insights**
 - **Description:** Measure the accuracy of the insights provided by the AI assistant compared to actual market trends and outcomes.
 - **Measurement:** Calculate the percentage of correct predictions made by the AI assistant.
-- **Letter Grade:** 
-  - A: 90% or higher accuracy
-  - B: 80% - 89% accuracy
-  - C: 70% - 79% accuracy
-  - D: 60% - 69% accuracy
-  - F: Below 60% accuracy
+- ** Accuracy possibility** 
+  - Likely accurate
+  - Possibily accurate
+  - Less accurate
+  - Not accurate
+  - Not sure
 
 **Metric 2: User Satisfaction**
 - **Description:** Evaluate user satisfaction with the AI assistant's usability and effectiveness.
