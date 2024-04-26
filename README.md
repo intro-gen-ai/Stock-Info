@@ -103,4 +103,4 @@ What do you take away from the project? Has this changed how you understand AI? 
 
 100-500 words
 
-Yes, I plan on continuing the project by utilizing Customized GPT to create my final project. The prompting skills I have gained from class are greatly assisting me in this project. Knowing how to prompt a customized GPT enable me to establish metrics and other parameters for the project effectively. While it's unlikely that I'll use any coding or external tools I learned in class other than OpenAI's customized GPT, I am still open to using them in case I decide to do so.
+Yes, I plan on continuing the project by utilizing Customized GPT to create my final project. The prompting skills I have gained from class are greatly assisting me in this project. Knowing how to prompt a customized GPT enable me to establish metrics and other parameters for the project effectively. While it's unlikely that I'll use any coding or external tools I learned in class other than OpenAI's customized GPT, I am still open to using them in case I decide to do so. I also plan to use dall-e to help users with visualize of reports it provides if applicable. 
