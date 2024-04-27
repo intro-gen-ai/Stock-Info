@@ -79,13 +79,15 @@ Goal 5: Include possible uncertainity and error it might commit. If it is unclea
 - **Measurement:** Conduct user surveys or interviews to gather feedback on the assistant's performance, ease of use, and usefulness in informing trading decisions.
 - **Letter Grade:**
   - A: High satisfaction with positive feedback from users
-  - B: Generally positive feedback with some areas for improvement identified
-  - C: Mixed feedback with equal positive and negative comments
-  - D: Mostly negative feedback with few positive comments
-  - F: Overwhelmingly negative feedback with little to no positive comments
+  - B: Generally right information
+  - C: Mixed answers
+  - D: Mostly unaccurate answers
+  - F: Overwhelmingly unaccurate answers 
 
 ## GPT link and presentation link
-
+Presentantion link: https://drive.google.com/file/d/123XbScHuE7fH4BNFT9scybDZSzDilLTR/view?usp=drivesdk
+Project link: https://chat.openai.com/g/g-yeYlXgwGQ-geniustrade
+User experience docs link: https://docs.google.com/document/d/1FwM6Lvq9MzPNIci2Tq6UKDM4DN_iySFoW-oIX5vOolo/edit?usp=sharing
 
 ## Self-Evaluation
 **Due April 26, 11:59pm**
