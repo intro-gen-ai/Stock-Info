@@ -96,12 +96,47 @@ User experience docs link: https://docs.google.com/document/d/1FwM6Lvq9MzPNIci2T
 
 Address each of the goals, and assess each of the metrics. Include a statement on each on what you achieved or did not achieve, give support for your assessments.
 
+Achievements and Reflections on Project Goals
+Goal 1: I successfully designed and developed an AI-powered stock research assistant, "TradeGenius", capable of conducting sophisticated market analyses. The system uses advanced natural language processing algorithms to process data from a variety of sources, providing personalized insights to users. The incorporation of an intuitive interface has made the assistant accessible to both novice and professional traders. 
+
+Goal 2: TradeGenius effectively gathers and utilizes data from renowned sources such as Wall Street analyst reports and reputable market analysis platforms. This comprehensive data integration ensures the reliability of the insights provided, enhancing the decision-making process for users.
+
+Goal 3: Incorporate sentiment analysis to gauge market sentiment for most accurate info of what most market is thinking. The implementation of sentiment analysis has been a significant achievement. TradeGenius analyzes sentiments from various sources, presenting a balanced view of market opinions. This feature helps users grasp the broader market sentiment, aiding them in making more informed trading decisions. I really tried hard to avoid possible baises however it is possible that it shows bias. 
+
+Goal 4: The assistant generates detailed research reports that combine insights from credible sources and established trading rules. These reports are pivotal in providing traders with actionable insights, presenting multiple scenarios to prepare them for different market conditions.
+
+Goal 5: An important feature of TradeGenius is its ability to acknowledge uncertainties and potential errors in its predictions. I tried to make it include statement that its information is maybe not accurate or could be bias. This transparency builds trust and allows users to consider these factors in their decision-making process.
+
+Ultimately, I believe I achieved these goals. Sometimes there are inaccuracies and other biases, but I believe the information it provides is mostly decently accurate. So I would rank it in "possibily accurate tier" in first matrics. For second matrix, I would give it B beacause I have not tested it in actual envirnment. 
+
+
 ## Reflection on Learning
 **Due April 26, 11:59pm**
 
 500-1000 words
 
-What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
+Initially, I faced many challenges in making the system conduct thorough research. At first, it was providing very vague answers about stocks and was not importing or conducting actual searches for stock information. Finally, after a series of prompts, I developed one that ensured it would always conduct research on the asked questions, regardless of the input. It worked. It seemed as if every time I asked a question, I learned something that worked and something that didn't. Eventually, with every prompt, the system got better and achieved the desired result; it started conducting research every time I asked it questions.
+
+Throughout the project, I engaged in extensive iterative testing, utilizing multiple user profiles to ensure the system’s reliability and accuracy. My testing included actual cross verification of information from credible sources. This approach allowed me to fine-tune the model to handle a variety of user interactions effectively.
+
+A significant aspect of my development process involved integrating extensive data from  different researches including from the University of Florida, and New Yew University into the Knowledge feature of GPT, enabling the model to generate most relevant and important information to avoid all types of biases. Additionally, Iincorporated an API for dryland exercises complete with gifs, enhancing the training experience with visual aids.
+
+However, issues with biases and incorrect answers remain. A significant problem is that if it is unsure, it starts guessing answers, which is particularly problematic when dealing with numerical data. I modified the prompts in such a way that when it answers, it provides the source of where it is getting that numerical information from. Now, it mostly provides sources. I have prohibited it from using presumptive language and giving any kind of opinion on something. Sometimes, even when I instruct it not to do something, it still does it; however, with some rephrasing, these issues are often resolved.
+
+This class, including this project, has helped me improve my prompting skills. There are still many inaccuracies I get from it, but I plan to continue working on it and making it better. In fact, I plan to use it for my personal trading. 
+
+Creating this project was something I never would have ventured into on my own. This class provided me the opportunity to start it. Along the way, as I was designing it, I learned about how to create an actual product for users using GPT. Viewing myself as a user or customer, especially since I have lost a lot of money in personal trading, helped me prompt better because of the real problems I faced.
+
+This project has significantly altered my understanding of AI. It has shown me both the potential and the limitations of AI in practical applications. The experience has demonstrated how crucial it is to iteratively refine AI tools to better meet user needs and to manage the challenges inherent in AI, such as bias and inaccuracies.
+
+I achieved a 'Possibly Accurate' tier for my insights, indicating a good level of reliability. However, there are still improvements to be made, particularly in handling biases and inaccuracies. I would grade this as 'B' since the model has not yet been tested in a real-world trading environment. User feedback from controlled settings has been positive, but real-world application is the ultimate test.  Learning and Growth Through the Project 
+
+The project not only honed my technical skills but also improved my ability to prompt effectively, a crucial skill in working with AI. Through repeated iterations and testing, each prompt became more refined, leading to more accurate and relevant responses from the AI. I learned to direct the AI to perform thorough research and to cite its sources, especially when dealing with numerical data, to mitigate issues with biased or incorrect answers. Despite these advancements, the model still faces challenges with guessing answers when uncertain, particularly problematic in the context of financial data. This has underscored the importance of designing AI interactions that are not only informative but also transparent about their limitations.
+
+This project has profoundly impacted my approach to problem-solving and my understanding of AI's role in innovative solutions. Moving forward, I plan to continue refining the AI assistant, focusing on improving its accuracy and expanding its capabilities to better serve the needs of traders, including myself. I see potential in using this AI not only as a personal tool for trading but also as a product that can benefit a broader audience.
+
+The experiences from this project will also influence my future learning and career choices. The skills acquired and the insights gained about AI's capabilities and limitations will be invaluable as I explore further opportunities in technology and AI development. In conclusion, this project was not just about creating a functional AI assistant; it was a journey of personal and professional growth, understanding the true potential of AI, and learning to create real-world solutions that can transform industries. This class provided the foundation, and I am eager to build on it in the years to come.
+
 
 ## What's Next?
 **Due April 22, 11:59pm**
