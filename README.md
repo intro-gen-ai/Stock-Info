@@ -84,6 +84,9 @@ Goal 5: Include possible uncertainity and error it might commit. If it is unclea
   - D: Mostly negative feedback with few positive comments
   - F: Overwhelmingly negative feedback with little to no positive comments
 
+## GPT link and presentation link
+
+
 ## Self-Evaluation
 **Due April 26, 11:59pm**
 
